@@ -12,9 +12,22 @@ And then, you have to check if you have PIP installed. And if you don't, follow 
 
 # Necessary libraries
 ## Pandas
-```something```
+For installing pandas, you have to type in in the terminal of the IDE you are using:
+```pip install pandas```
+
 ## Sklearn
+For installing sklearn, you have to type in in the terminal of the IDE you are using:
+```pip install scikit-learn```
+
 ## Jupyter Notebook
+For installing Jupyter notebook, you have to type in in the terminal of the IDE you are using:
+```pip install pandas```
+
 ## Matplotlib
+For installing matplotlib, you have to type in in the terminal of the IDE you are using:
+```pip install matplotlib```
+
 ## Numpy
+For installing numpy, you have to type in in the terminal of the IDE you are using:
+```pip install numpy```
 
