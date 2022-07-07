@@ -24,7 +24,11 @@ For installing sklearn, you have to type in in the terminal of the IDE you are u
 ## Jupyter Notebook
 For installing Jupyter notebook, you have to type in in the terminal of the IDE you are using:
 
-```pip install pandas```
+```pip install notebook```
+
+And, for opening jupyter notebook, you have to type in the IDE you are using:
+
+```jupyter notebook```
 
 ## Matplotlib
 For installing matplotlib, you have to type in in the terminal of the IDE you are using:
